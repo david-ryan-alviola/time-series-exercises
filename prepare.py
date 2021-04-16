@@ -51,7 +51,7 @@ def prepare_germany_df(df):
     
 def _add_germany_features(df):
     """
-    Helper function that addas month and year columns to the Germany dataframe.
+    Helper function that adds month and year columns to the Germany dataframe.
     """
     germany_df = df.copy()
     
